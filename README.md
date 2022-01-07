@@ -1,6 +1,6 @@
 - ### 👋 Hi there, I'm Viddesh 
-- 👀 I’m interested in python, Django, Data Science
-- 🌱 I’m currently learning Django, Data Science and everything 🤣
+- 👀 I’m interested in Python, Django, A.I
+- 🌱 I’m currently learning Django, A.I and everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play Football, Cricket, Chess and Carrom
