@@ -3,7 +3,7 @@
 - 👀 I’m interested in Python, Django, A.I
 - 🌱 I’m currently learning Django, A.I and everything 
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2023 Goals: Contribute more to Open Source projects
+- 🥅 2024 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play Football
 
 <img align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="100"/>
